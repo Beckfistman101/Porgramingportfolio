@@ -15,6 +15,6 @@ Space game in processing
 
  ![Space Game](https://github.com/Beckfistman101/Porgramingportfolio/blob/main/images/calc.png)
  
- [Space game src](https://github.com/Beckfistman101/Porgramingportfolio/tree/main/src)
+ [Space game src](https://github.com/Beckfistman101/Porgramingportfolio/tree/main/scr/Spacegame)
  
 ## programming semester 2 projects:
