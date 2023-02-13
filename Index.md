@@ -8,4 +8,4 @@ OOP grapical calulator using processing
  
  [Calulator src](https://github.com/Beckfistman101/Porgramingportfolio/tree/main/src)
  
-##programming semester 2 projects:
+## programming semester 2 projects:
